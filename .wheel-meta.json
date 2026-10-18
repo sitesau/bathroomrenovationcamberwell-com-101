@@ -1,0 +1,22 @@
+{
+  "wheel_id": 400,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcamberwell-com-101",
+  "project": "bathroom-renovation-camberwell-budget-tips-1a549be57ce095e43b43",
+  "parent_t1_ref": "bathroomrenovationcamberwell-com-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovation camberwell budget tips",
+  "intended_url": "https://sitesau.github.io/bathroomrenovationcamberwell-com-101/",
+  "tier": "T2",
+  "writeback_nonce": "592ff52396a26b2f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/bathroom-renovation-camberwell-faq-193f5ad34097e5b650298da49ad3/",
+      "anchor": "https://sites-e470-2.web.app/bathroom-renovation-camberwell-faq-193f5ad34097e5b650298da49ad3/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
